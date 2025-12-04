@@ -32,6 +32,7 @@ Include the script directly in your webpage:
 
 ```html
 <script src="devtools-blocker.js"></script>
+```
 
 ## ⚠️ Limitations
 
