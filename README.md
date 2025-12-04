@@ -25,3 +25,11 @@ The script prevents multiple keyboard combinations used to open DevTools:
 ### 🔍 Detects DevTools Execution
 If DevTools is opened through any non-keyboard method  
 (right-click → Inspect, menu button, etc.), a warning alert appears:
+
+## 📝 Usage
+
+Include the script directly in your webpage:
+
+```html
+<script src="devtools-blocker.js"></script>
+
