@@ -32,9 +32,7 @@
          toString: {value() {(new Error).stack.includes('toString@') && alert('Safari devtools')}},
          message: {
              get() {
-                 //alert('개발자 도구(F12)는 사용하실 수 없습니다.');
                  alert('You cannot use the developer tool (F12).');
-                 //document.location.href="https://naver.com/"
            }
          },
      }));
