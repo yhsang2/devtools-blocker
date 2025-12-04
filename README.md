@@ -1,10 +1,10 @@
 # 🔒 Developer Tools Blocker (F12 & DevTools Protection Script)
-- This JavaScript is currently applied to my website, which has over 3,000 users!
-- It may not be perfect, but this JavaScript provides a solid level of basic protection.
-
 This JavaScript snippet prevents users from opening browser developer tools  
 such as **F12**, **Ctrl + Shift + I**, **Ctrl + U**, and various platform-specific shortcuts.  
 It also includes a detection mechanism that alerts the user if DevTools is triggered.
+
+- This JavaScript is currently applied to my website, which has over 3,000 users!
+- It may not be perfect, but this JavaScript provides a solid level of basic protection.
 
 > ⚠️ **Important Note:**  
 > This script does *not* guarantee perfect protection against advanced users or developers.  
