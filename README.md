@@ -33,3 +33,23 @@ Include the script directly in your webpage:
 ```html
 <script src="devtools-blocker.js"></script>
 
+## ⚠️ Limitations
+
+> ⚠️ **Important:**  
+> This script is *not* a security mechanism.  
+> It only discourages casual or novice users from opening DevTools.
+
+- ❌ Cannot prevent **advanced users** or developers from bypassing protections  
+- 🔧 Browser vendors may change DevTools internals, reducing reliability  
+- 🔒 Should **not** be used in security-critical environments  
+- 🧪 Best suited for:
+  - Education-focused web applications  
+  - Kiosk, public display, or exhibition environments  
+  - Preventing accidental DevTools access  
+  - Blocking naive attempts to inspect source code or static assets  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
