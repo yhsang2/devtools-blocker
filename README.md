@@ -53,8 +53,17 @@ Include the script directly in your webpage:
 
 ---
 
-## 📄 License & Buy me a Coffee
+## ☕ Support
+
+If this project helped you,  
+you can **buy me a coffee** and support my work:
+
+👉 **https://buymeacoffee.com/yhsang2**
+
+Thank you! 🙌
+
+---
+
+## 📄 License
 
 This project is licensed under the **MIT License**.
-
-https://buymeacoffee.com/yhsang2
